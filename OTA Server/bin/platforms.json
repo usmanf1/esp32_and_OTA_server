@@ -1,0 +1,19 @@
+[
+    {
+        "hostname": "esp32",
+        "firmware":[
+            {
+                "version": "1.0.1",
+                "path": "update.bin"
+            },
+            {
+                "version": "1.0.2",
+                "path": "update_1.bin"   
+            },
+            {
+                "version": "1.0.5",
+                "path": "update_3.bin"
+            }
+        ]
+    }
+]
